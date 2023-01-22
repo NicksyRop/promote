@@ -24,4 +24,4 @@ jobs:
 workflows:
   say-hello-workflow:
     jobs:
-      - say-hello
+      - create_and_deploy_front_end
